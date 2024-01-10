@@ -1,5 +1,5 @@
 # CGMConsulting-FinalProject
-Progetto finale realizzato durante il corso CGM basatosu un Video Store e noleggio di film.
+Progetto finale realizzato durante il corso CGM basato su un Video Store e noleggio di film.
 
 
 ![video_store_diagram](https://github.com/baldi364/CGMConsulting-FinalProject/assets/134001121/aef64947-0924-463e-8fdf-5f3fc9b3011e)
